@@ -1,0 +1,5 @@
+aws_region = "us-east-1"
+project = "tf-datadog-lab"
+instance_type = "t3.micro"
+# datadog_api_key = "REPLACE_ME"   # prefer using env vars
+# datadog_app_key = "REPLACE_ME"
